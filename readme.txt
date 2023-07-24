@@ -1,0 +1,2 @@
+The "nep-GAP-carbon.txt" is the NEP-C potential, which is a machine-learned potential for carbon materials trained employing in neuroevolution potential (NEP) framework.
+The NEP-C can be employed in LAMMPS and GPUMD package. The details on how to use NEP-C is described in https://github.com/brucefan1983/NEP_CPU.  
